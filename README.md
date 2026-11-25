@@ -19,9 +19,14 @@ Open `index.html` in a browser. All code and demo data are local. For GitHub Pag
 The region, country, entity, product, month and currency-basis filters apply across pages. Click a country in a market table to narrow the view to its legal entity. Intramonth values are unavailable because each observation is monthly.
 Line charts display values at spaced reporting months by default. Select **Show all monthly labels** to display each point value. The chart scrolls horizontally when needed.
 
-![Executive Overview](screenshots/01-executive-overview.png)
+<img width="390" height="900" alt="06-mobile-overview" src="https://github.com/user-attachments/assets/0668bf8e-5426-430f-ae6b-e78e2f97d9a2" />
+<img width="1348" height="926" alt="05-stress-testing" src="https://github.com/user-attachments/assets/de8e3e9c-2837-47d1-9145-b027783d1444" />
+<img width="1348" height="926" alt="04-deposits-liquidity" src="https://github.com/user-attachments/assets/fa44c186-34e9-4168-8eb7-b0911280859a" />
+<img width="1348" height="926" alt="03-credit-collections" src="https://github.com/user-attachments/assets/df7a87f7-1716-41e7-b518-17d2af3f1bb1" />
+<img width="1348" height="926" alt="02-profitability-fx" src="https://github.com/user-attachments/assets/06110b6d-906f-4f8a-be19-d262e5f9e91f" />
+<img width="1348" height="926" alt="01-executive-overview" src="https://github.com/user-attachments/assets/8d08ce07-eb4b-45fe-a252-e18449d75bed" />
 
-[Profitability & FX](screenshots/02-profitability-fx.png) · [Credit & Collections](screenshots/03-credit-collections.png) · [Deposits & Liquidity](screenshots/04-deposits-liquidity.png) · [Stress Testing](screenshots/05-stress-testing.png) · [Mobile overview](screenshots/06-mobile-overview.png)
+
 
 ## Data and definitions
 
